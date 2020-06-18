@@ -6,4 +6,4 @@
 - 配置风格
   - 需要将stylesheet.qss放到运行目录下
 - 截图
-- ![1234](http://github.com/yifily/Analyze/raw/master/assets/1592453192563.png)
+- ![1234](https://github.com/yifily/Analyze/tree/master/assets/1592453192563.png)
