@@ -1,0 +1,24 @@
+QMainWindow{
+	background: #FDF5E6;
+	color: #BBBBBB;
+	font-family: "Segoe UI";
+}
+
+QHexEdit{
+	background:#FDF5E6;
+	color: drak;
+}
+QTreeWidget{
+	background:#FDF5E6;
+	color: drak;
+}
+
+QTreeWidget::QHeaderView{
+	background:drak;
+	color: drak;
+}
+
+QTreeWidget::item:selected{ 
+    background-color: #157efb; 
+    color: 	Gold 
+} 
